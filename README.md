@@ -1,7 +1,5 @@
 --> Ola comunidade !!!! meu nome é Ana Julia;
 
--->@anajuliapereira2005 É meu nome de usuario ;
-
 --> Gosto de Tecnologia ;
 
 --> Curso  Analise  e Desenvolvimento de Sistemas 3/5 ; 
