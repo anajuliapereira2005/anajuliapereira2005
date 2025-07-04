@@ -2,7 +2,16 @@
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS...
+![logo do Java Scripit ](https://img.icons8.com/?size=100&id=52wKEsyyo49O&format=png&color=000000)
+![logo do CSS ](https://img.icons8.com/?size=100&id=2tHbkMhSLMfq&format=png&color=000000)
+![Logo HTML ](https://img.icons8.com/?size=100&id=Yfprg8CASXbD&format=png&color=000000 )
+![Logo HTML ](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)
+
+
+
+
+
+
 
 
 ## ​🍓​Sobre mim
