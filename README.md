@@ -6,9 +6,7 @@ Javascript, HTML, CSS...
 
 
 ## ​🍓​Sobre mim
-📚​ Estudante de Analise e Desenvolvimento de sistemas 3/5 
-​
-
+ 
 🧚🏻‍♀️​ Estudante de front-end (Dio com santander)
 
 📌​ vivo na zona oeste de Sao Paulo 
