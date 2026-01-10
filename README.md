@@ -1,4 +1,4 @@
-# 👩🏻‍💻Olá,me chamo Ana Julia, seja bem vido (a) ao meu perfil! 
+# 👩🏻‍💻Olá,me chamo Ana Julia Pereira , seja bem vido (a) ao meu perfil! 
 
 
 ## 🛠 Habilidades
