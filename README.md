@@ -16,7 +16,6 @@
 
 ## ​🍓​Sobre mim
  
-🧚🏻‍♀️​ Estudante de front-end (Dio com santander)&
 📚 Análise e Desenvolvimento de Sistemas 
 
 📌​ vivo na zona oeste de Sao Paulo 
